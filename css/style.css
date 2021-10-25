@@ -12,7 +12,21 @@ html {
 	margin: 0 auto;
 	font-family: "Lato", sans-serif;
 	padding: 20px;
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: url("/currency-converter/images/bg-money.jpg");
+	background-size: cover;
+	background-position: center;
 }
+.container {
+	border-radius: 50px;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	padding: 20px 50px;
+	background-color: #fff;
+}
+
 .header {
 	display: flex;
 	justify-content: center;
