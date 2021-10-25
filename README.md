@@ -8,3 +8,4 @@ The converter allows you to convert the indicated amount (in PLN) to the selecte
 - Flexbox
 - BEM
 - Media qeries
+- Arrow function in JS
