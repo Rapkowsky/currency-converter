@@ -7,5 +7,5 @@ The converter allows you to convert the indicated amount (in PLN) to the selecte
 ## Used methodologies
 - Flexbox
 - BEM
-- Media qeries
+- Media queries
 - Arrow function in JS
