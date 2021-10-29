@@ -1,6 +1,6 @@
 # Currency converter project
 
-![Robert](/homepage/images/rr_image.png)
+![Robert](/images/rr_image.png)
 
 ## Demo
 
