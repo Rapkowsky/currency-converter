@@ -1,7 +1,4 @@
 # Currency converter project
-
-![Robert](/images/rr_image.png)
-
 ## Demo
 
 https://rapkowsky.github.io/currency-converter/
